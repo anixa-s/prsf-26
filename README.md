@@ -1,4 +1,4 @@
-# Pneumonia Detector w/ ResNet-CNN Architecture 
+# 🫁 Pneumonia Detector w/ ResNet-CNN Architecture 
 
 ## Objective 
 The aim of this notebook is to explore the usage of Convolutional Neural Networks (CNNs) and Transfer Learning to detect Pneumonia given X-ray images of the lungs of patients. This notebook will have a look at vanilla CNNs, as well as pretrained CNNs models such as ResNet50V2, EfficientNetV1 B0 and the new EfficientNetV2 B0. Perfomance evaluation via selected metrics will be discussed in this notebook in order to compare the architectures explored.
