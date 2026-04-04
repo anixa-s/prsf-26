@@ -15,15 +15,15 @@ The signs and symptoms of pneumonia vary from mild to severe, depending on facto
 ## Signs and symptoms of pneumonia may include:
 
 <ul>
-- <li> Chest pain when you breathe or cough</li>
-- <li>Confusion or changes in mental awareness (Seniors - 65+)</li>
-- <li>Cough, which may produce phlegm</li>
-- <li>Fatigue</li>
-- <li>Fever, sweating and shaking chills</li>
-- <li>Lower than normal body temperature (in adults older than age 65 and people with weak immune systems)</li>
-- <li>Nausea, vomiting or diarrhea</li>
-- <li>Shortness of breath</li>
-- <li>Newborns and infants may not show any sign of the infection. Or they may vomit, have a fever and cough, appear restless or tired and without energy, or have difficulty breathing and eating.</li>
+  <li> Chest pain when you breathe or cough</li>
+  <li>Confusion or changes in mental awareness (Seniors - 65+)</li>
+  <li>Cough, which may produce phlegm</li>
+  <li>Fatigue</li>
+  <li>Fever, sweating and shaking chills</li>
+  <li>Lower than normal body temperature (in adults older than age 65 and people with weak immune systems)</li>
+  <li>Nausea, vomiting or diarrhea</li>
+  <li>Shortness of breath</li>
+  <li>Newborns and infants may not show any sign of the infection. Or they may vomit, have a fever and cough, appear restless or tired and without energy, or have difficulty breathing and eating.</li>
 </ul>
 
 Read here for more info: <[Mayo Clinic - Pneumonia](https://www.mayoclinic.org/diseases-conditions/pneumonia/symptoms-causes/syc-20354204#dialogId44136904)>
